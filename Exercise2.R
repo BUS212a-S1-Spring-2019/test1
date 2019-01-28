@@ -56,7 +56,7 @@ p2
 
 # 1. In line 3, add your name to "Modified by:  "
 # 2. Change the size of the training set from 60% to 70%. Rerun the code is see how much of a difference that makes.
-# 3. In both plots, change the categorical variable of interest from diamond color to diamond cut. Make an appropriate change to the plot titles and axes
+# 3. In both plots, change the categorical variable of interest from diamond color to diamond cut. Edit the plot titles.
 # 4. Repeat 3. with the categorical variable of interest changed to diamond clarity.
 # 5. Think about the results and your modeling process. There is no written report, but
 #    we will debrief about this exercise in class.
